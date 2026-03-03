@@ -1,4 +1,6 @@
-## Hi there 👋
+## hi devs 
+###new to this domain and hope to be one of the dominators on it
+- currently learning js ...
 
 <!--
 **prototype-rezero/prototype-rezero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
