@@ -1,5 +1,5 @@
 ## hi devs 
-###new to this domain and hope to be one of the dominators on it
+new to this domain and hope to be one of the dominators on it
 - currently learning js ...
 
 <!--
