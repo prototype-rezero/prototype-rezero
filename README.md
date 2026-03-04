@@ -4,27 +4,25 @@
 
 ---
 
-#### <p align="center">Socials</p>
+#### Socials
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/prototype.rezero ) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mumen_brahimi_002 ) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ell.ibrahimi )  [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@mumen_brahimi_002 )
+
 ---
  
-#### <p align="center">Learned</p>
+#### Learned
 
-<p align="center"><img src="https://skillicons.dev/icons?i=html,css" />
-</p>
-
+<img src="https://skillicons.dev/icons?i=html,css" />
 
 ---
 
-#### <p align="center">Currently Learning</p>
+#### Currently Learning
 
-<p align="center"><img src="https://skillicons.dev/icons?i=js" />
-</p>
+<img src="https://skillicons.dev/icons?i=js" />
 
 ---
 
-### <p align="center">TOOLS</p>
+### TOOLS
 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)  
 ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)   
