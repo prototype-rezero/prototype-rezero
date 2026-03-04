@@ -26,8 +26,12 @@
 ### <p align="center">TOOLS</p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=discord,vscode,github" />  <img src="https://img.shields.io/badge/-Gemini-8E75C2?style=for-the-badge&logo=googlegemini&logoColor=white" height="48">   <img src="https://img.shields.io/badge/-Copilot-8049DA?style=for-the-badge&logo=githubcopilot&logoColor=white" height="48">
+  <img src="https://skillicons.dev/icons?i=discord,vscode,github" />
+  
+  <br><br> <img src="https://img.shields.io/badge/-Gemini-8E75C2?style=for-the-badge&logo=googlegemini&logoColor=white" height="40">
+  <img src="https://img.shields.io/badge/-Copilot-8049DA?style=for-the-badge&logo=githubcopilot&logoColor=white" height="40">
 </p>
+
 
 
 ---
