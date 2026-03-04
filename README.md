@@ -8,14 +8,20 @@
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/prototype.rezero ) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mumen_brahimi_002 ) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ell.ibrahimi )  [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@mumen_brahimi_002 )  
 
+---
+ 
 - learned :
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
+---
+
 - currently learning :
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+
+---
 
 - work using :
 
@@ -23,6 +29,8 @@
 ![VisualStudioCode](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
 ![Gemini](https://img.shields.io/badge/google%20gemini-8E75C2?style=for-the-badge&logo=googlegemini&logoColor=white)  
 ![Copilot](https://img.shields.io/badge/github%20copilot-8049DA?style=for-the-badge&logo=githubcopilot&logoColor=white)
+
+---
 
 - Stats :  
 ![](https://github-readme-stats.vercel.app/api?username=prototype-rezero&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true)<br/>
