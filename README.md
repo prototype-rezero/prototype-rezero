@@ -7,13 +7,13 @@
 
 ---
  
-#### Learned :
+### Learned :
 
 <img src="https://skillicons.dev/icons?i=html,css" />
 
 ---
 
-#### Currently Learning :
+### Currently Learning :
 
 <img src="https://skillicons.dev/icons?i=js" />
 
