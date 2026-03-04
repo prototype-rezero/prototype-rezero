@@ -25,10 +25,12 @@
 
 ### <p align="center">TOOLS</p>
 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)  
-![VisualStudioCode](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
-![Gemini](https://img.shields.io/badge/google%20gemini-8E75C2?style=for-the-badge&logo=googlegemini&logoColor=white)  
-![Copilot](https://img.shields.io/badge/github%20copilot-8049DA?style=for-the-badge&logo=githubcopilot&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=discord,vscode,github" />
+  <img src="https://img.shields.io/badge/-Gemini-8E75C2?style=for-the-badge&logo=googlegemini&logoColor=white" height="48">
+  <img src="https://img.shields.io/badge/-Copilot-8049DA?style=for-the-badge&logo=githubcopilot&logoColor=white" height="48">
+</p>
+
 
 ---
 
