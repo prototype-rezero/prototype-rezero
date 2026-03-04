@@ -19,7 +19,8 @@
 
 #### <p align="center">Currently Learning</p>
 
-![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+<p align="center"><img src="https://skillicons.dev/icons?i=js" />
+</p>
 
 ---
 
