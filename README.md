@@ -36,6 +36,13 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=prototype-rezero&theme=blue_navy&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=prototype-rezero&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=prototype-rezero&theme=dark&hide_border=false&include_all_commits=true&count_private=true&title_color=BD93F9&text_color=8BE9FD&icon_color=BD93F9" />
+  
+  <br/><br/> <img src="https://nirzak-streak-stats.vercel.app/?user=prototype-rezero&theme=dark&hide_border=false&stroke=BD93F9&fire=8BE9FD&ring=BD93F9&text=8BE9FD" />
+  
+  <br/><br/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prototype-rezero&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&title_color=BD93F9&text_color=8BE9FD" />
+</p>
 
  
 
