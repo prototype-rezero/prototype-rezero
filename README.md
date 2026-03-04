@@ -1,4 +1,4 @@
-## hi devs 
+## Hello devs 
 
 new to this domain and hope to be one of the dominators on it.
 
