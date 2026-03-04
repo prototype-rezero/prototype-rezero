@@ -32,7 +32,7 @@
 
 ---
 
-<p align="center">- Stats</p>
+### <p align="center">STATS</p>
   
 ![](https://github-readme-stats.vercel.app/api?username=prototype-rezero&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=prototype-rezero&theme=blue_navy&hide_border=false)<br/>
