@@ -18,8 +18,7 @@ new to this domain and hope to be one of the dominators on it.
 ![Gemini](https://img.shields.io/badge/google%20gemini-8E75C2?style=for-the-badge&logo=googlegemini&logoColor=white)  
 ![Copilot](https://img.shields.io/badge/github%20copilot-8049DA?style=for-the-badge&logo=githubcopilot&logoColor=white)
 
-- Stats :
-
+- Stats :  
 ![](https://github-readme-stats.vercel.app/api?username=prototype-rezero&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=prototype-rezero&theme=blue_navy&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=prototype-rezero&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true&layout=compact) 
